@@ -1,0 +1,13 @@
+# Week 1 - Fusion 360 Basics: Cube Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 10, 2025  
+**Objective:** Learn sketching, constraints, and extrusion.
+
+**Design Summary:**
+- Created a 20x20x20 mm cube using the “Sketch → Rectangle” and “Solid → Extrude” tools.
+- Practiced using the view cube and pan/orbit controls.
+
+**Notes:**
+- Learned how to create new designs, save, and export `.f3d` files
+- Next step: Create and extrude a custom shape (Week 2 project)

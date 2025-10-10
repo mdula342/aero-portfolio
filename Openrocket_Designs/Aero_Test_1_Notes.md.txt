@@ -1,0 +1,17 @@
+# Aero Test 1 - Familiarization Flight
+
+**Software:** OpenRocket  
+**Date:** October 10, 2025  
+**Objective:** Learn OpenRocket interface and run a basic simulation.
+
+**Design Summary:**
+- Rocket length: 50 cm  
+- Motor: A6-4  
+- Apogee: 10.4 m  
+- Max velocity: 12.7 m/s  
+- Stability: 0.65 cal (marginal)
+
+**Notes:**
+- Practiced adding basic parts and familiarized myself with their basic functions
+- Practiced running and editing flight simulations
+- Next step: Adjust fin geometry and test stability changes
