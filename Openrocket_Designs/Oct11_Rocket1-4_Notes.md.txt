@@ -1,0 +1,34 @@
+# Rocket Builds Oct.11 1-4
+
+**Software:** OpenRocket  
+**Date:** October 11, 2025  
+**Objective:** Observe stability changes with adjustment of fin geometry and position
+
+**Design Summary:**
+- Rocket length: 55 cm  
+- Motor: B6-0 
+	**Rocket 1:**
+	- Fin height: 3 cm
+	- Number of fins: 3
+	- Position relative to tip of the rocket: 51 cm
+	- Stability:1.27 cal/9.1%
+	**Rocket 2:** 
+	- Fin height: 5 cm
+	- Number of fins: 3
+	- Position relative to tip of the rocket: 51 cm
+	- Stability: 2.93 cal/20.9%
+	**Rocket 3:**
+	- Fin height: 5 cm
+	- Number of fins: 5
+	- Position relative to tip of the rocket: 51 cm
+	- Stability: 3.56 cal/25.4%
+	**Rocket 4:**
+	- Fin height: 5 cm
+	- Number of fins: 5
+	- Position relative to tip of the rocket: 45 cm
+	- Stability: 2.31/16.8%
+
+**Notes:**
+- Practiced changing fin geometry and position
+- Observed effects of fin specifications on stability
+- Next step: Continue exploring the effects of fin geometry on stability

@@ -1,0 +1,15 @@
+# Week 1 - Fusion 360 Basics: Bracket Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 11, 2025  
+**Objective:** Practice sketching, constraints, and extrusion.
+
+**Design Summary:**
+# Week 1 - Fusion 360 Basics: Cube Model
+- Sketched the basic shape and assigned constraints and dimensions.
+- Rounded the edges and extruded the sketch into a body, then created a new sketch on one of the surfaces of the body.
+- Used the construction lines of the new sketch to help create a series of circles which I then extruded to make holes in the bracket.
+
+**Notes:**
+- Learned the functions of many more types of constraints 
+- Next step: Create and extrude a custom shape (Week 2 project)
