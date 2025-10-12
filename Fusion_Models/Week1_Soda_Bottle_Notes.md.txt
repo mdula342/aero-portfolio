@@ -1,0 +1,17 @@
+# Week 1 - Fusion 360 Basics: Soda Bottle Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 12, 2025  
+**Objective:** Practice rotation, shell, and spline features
+
+**Design Summary:**
+# Week 1 - Fusion 360 Basics: Cube Model
+- Inserted soda bottle canvas for reference
+- Sketched rectangle for bottom and used spline feature to model upper curvature
+- Used the rotate feature to create solid bottle shape
+- Used the shell feature to hollow the figure and filleted edges
+- Added glass appearance
+
+**Notes:**
+- Learned how to insert a canvas for reference, model curvature, and use the appearance feature
+- Next step: Create and extrude a custom shape (Week 2 project)
