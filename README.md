@@ -12,9 +12,9 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 3. Build a simple Python plot script to visualize altimeter CSV data.
 ## Learning log (most recent entries)
 - **2025-10-08** — Installed OpenRocket and ran first sample simulation.
-- **2025-10-10** - Started Fusion 360 learning; created cube model
-- **2025-10-11** - Modeled a wall bracket in Fusion; ran four OpenRocket simulations to explore how fin specifications affect rocket stability
-- **2025-10-12** - Modelled a glass soda bottle in Fusion to explore rotate, spline, and shell features
-- **2025-10-13** - 
+- **2025-10-10** - Started Fusion 360 learning; created cube model.
+- **2025-10-11** - Modeled a wall bracket in Fusion; ran four OpenRocket simulations to explore how fin specifications affect rocket stability.
+- **2025-10-12** - Modelled a glass soda bottle in Fusion to explore rotate, spline, and shell features.
+- **2025-10-13** - Modelled a paperclip in Fusion to explore the sweep and tangent arc features; ran three OpenRocket simulations to further explore the effects of fin specifications on rocket stability.
 ## Contact
 **Email:** mdula@catholic.tech
