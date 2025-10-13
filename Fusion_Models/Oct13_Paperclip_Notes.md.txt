@@ -1,0 +1,16 @@
+# Week 1 - Fusion 360 Basics: Paperclip Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 13, 2025  
+**Objective:** Practice using the tangent arc and sweep features
+
+**Design Summary:**
+- Sketched the necessary lines in the proportional parallel orientation
+- Used a tangent arc to achieve the correct curvature at the paperclip ends
+- Used the sweep feature to create the final 3d figure
+
+**Notes:**
+- Learned organizational skills regarding sketch nomenclature, i.e., naming each individual sketch is a best practice
+- Learned keyboard shortcut for center circle
+- Learned that sweep features can be used in capacities other than strictly 3d solid shapes
+- Next step: Create and extrude a custom shape (Week 2 project)

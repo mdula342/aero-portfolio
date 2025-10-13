@@ -1,0 +1,30 @@
+# Rocket Builds Oct.13 1-3
+
+**Software:** OpenRocket  
+**Date:** October 13, 2025  
+**Objective:** Observe stability changes with adjustment of fin specifications 
+
+**Design Summary:**
+- Rocket length: 55 cm  
+- Motor: B6-0 
+	**Control Rocket:**
+	- Sweep angle: 39.8
+	- Root chord: 4
+	- Fin cant: 0
+	- Stability:1.27 cal/9.1%
+	**Rocket 1:** 
+	- Sweep angle: 30
+	- Stability: 1.29 cal/9.29%
+	**Rocket 2:**
+	- Root chord: 53
+	- Stability: 1.85 cal/7.1%
+	**Rocket 3:**
+	- Fin cant: 15 
+	- Stability: 1.3/9.25%
+
+**Notes:**
+- Changed one fin specification for each rocket 1-3 and observed result
+- Stability did not increase for any increase in sweep angle beyond 29 and eventually decreased
+- Stability also did not increase for any increase in root chord beyond 53 and eventually decreased
+- Stability continued to increase slightly for all allowable increases in fin cant
+- Next step: study the effect of fin specifications on drag and maximum velocity
