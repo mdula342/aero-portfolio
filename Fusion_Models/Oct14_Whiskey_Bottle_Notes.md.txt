@@ -1,0 +1,19 @@
+# Week 1 - Fusion 360 Basics: Whiskey Bottle Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 14, 2025  
+**Objective:** Learn to utilize the loft, intersect, mirror, and thread features and make offset planes
+
+**Design Summary:**
+- Sketched the profiles needed by the loft command using offset planes
+- Used the intersect feature to apply a guide rail and mirrored it across the center axis of the bottle
+- Used the loft command to create the 3d shape and made a bottle stem to recieve the thread
+- Filleted remaining sharp edges, used the shell command to hollow the bottle, and added a thread to the stem
+
+**Notes:**
+- Learned that the shell feature does not work if curvature is too sharp
+- Learned that sketch fillets are not ideal (because they undo certain constraints), but are sometimes necessary 
+when using features such as the loft command
+- Learned that the "Modeled" box must be checkmarked before finishing thread, otherwise it will not be applied
+to the 3d printed or exported bottle
+- Next step: Create and extrude a custom shape (Week 2 project)
