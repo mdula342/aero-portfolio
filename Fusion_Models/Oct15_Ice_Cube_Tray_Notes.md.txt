@@ -1,0 +1,21 @@
+# Week 1 - Fusion 360 Basics: Ice Cube Tray Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 15, 2025  
+**Objective:** Practice applying a taper angle to an extrusion, using the rectangular pattern feature,
+creating a midplane construction plane, and applying the shell command with respect to multiple faces
+
+**Design Summary:**
+# Week 1 - Fusion 360 Basics: Ice Cube Tray Model
+- Created block of appropriate size
+- Extruded the first ice cube cell and applied a taper angle of 10 deg
+- Used the rectangular pattern feature to make a 7 by 2 collection of cells
+- Used the shell feature to hollow the cube around the cells by selecting five faces
+- Created the outer lip by sketching on a midplane construction plane
+- Used the sweep feature to extend the lip all the way around and filleted all sharp edges
+
+**Notes:**
+- Learned that it is best to minimize sketch dimensions as much as possible in favor of constraints
+- Missed a fillet edge early on and subsequently learned that the sweep command only works on smooth curves
+(filleted the sharp edge and finished sweep) 
+- Next step: Create and extrude a custom shape (Week 2 project)

@@ -1,0 +1,17 @@
+# Week 1 - Fusion 360 Basics: Hex Nut Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 16, 2025  
+**Objective:** Learn the Circumscribed Polygon tool, Custom Chamfer feature, and Hole command
+
+**Design Summary:**
+- Circumscribed a hexagon and extruded
+- Applied the Custom Chamfer tool to top half of nut
+- Used the Hole command
+- Created a Midplane Construction plane and mirrored the chamfer using the "Faces" option
+
+**Notes:**
+- Upon completion, found that thread overlapped the chamfer
+- Learned that the solution is to change the "Thread Offset" option to "Offset" and apply the correct
+dimension, in this case, 8.5 mm.
+- Next step: Create and extrude a custom shape (Week 2 project)
