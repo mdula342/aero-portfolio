@@ -1,0 +1,20 @@
+# Week 2 - Fusion 360 Basics: Bike Handlebar Grip Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 17, 2025  
+**Objective:** Learn the Text, Emboss, and Combine [3d bodies] features
+
+**Design Summary:**
+- Created a cylinder of appropriate size
+- Used the Text feature to inscribe brand name
+- Used the Emboss feature to convert the inscription to 3d
+- Created the grip pattern using the Rectangular Pattern feature
+- Hollowed the cylinder using the Shell feature 
+- Used the Combine feature to combine the many bodies created by the grip pattern
+- Created the final inner edge by offsetting and extruding
+
+**Notes:**
+- Learned that Shell doesn't work with embossed text given the sharp curvature (went back to
+to the step just before the Emboss command and shelled the cylinder)
+- Found that it is helpful to define extrusions that will be patterned in the future as individual bodies
+- Next step: Use Fusion to model the highest performing fin from OpenRocket simulations
