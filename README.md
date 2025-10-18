@@ -20,6 +20,6 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-15** - Modelled an ice cube tray in Fusion to explore applying a taper angle to an extrusion, using the Rectangular Pattern feature, creating a Midplane Construction plane, and applying the Shell command with respect to multiple faces; began an OpenRocket introductory course to provide more structure to my journey in rocket builds.
 - **2025-10-16** - Modelled a hex nut in Fusion to learn the Circumscribed Polygon tool, Custom Chamfer feature, and Hole command; completed lessons in OpenRocket course.
 - **2025-10-17** - Modelled a bike handlebar grip in Fusion to learn the Text, Emboss, and Combine features; finished OpenRocket intro and added certificate.
-- **2025-10-18** - 
+- **2025-10-18** - Modelled a doorstop in Fusion to learn the Three Point Arc feature and expand on the Chamfer, Emboss, and Offset Faces commands; write rocketry proposal for university club
 ## Contact
 **Email:** mdula@catholic.tech
