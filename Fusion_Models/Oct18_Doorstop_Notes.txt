@@ -1,0 +1,18 @@
+# Week 2 - Fusion 360 Basics: Doorstop Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 18, 2025  
+**Objective:** Learn the Three Point Arc command and review and expand knowledge of the Chamfer, Emboss, and
+Offset Faces commands.
+
+**Design Summary:**
+- Created sketch of side profile and extruded.
+- Applied a Chamfer to the top face.
+- Sketched the lateral skirt of the doorstop on one side and mirrored.
+- Used the three point arc to create the top section of the skirt.
+- Used the Shell command to hollow the doorstop wedge
+- Embossed a single rubber ridge for grip and used the Rectangular Pattern command to create full pattern.
+- Filleted ridges and other sharp edges.
+
+**Notes:**
+- Next step: Use Fusion to model the highest performing fin from OpenRocket simulations
