@@ -1,0 +1,24 @@
+# Week 2 - Fusion 360 Basics: Light Bulb Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 19, 2025  
+**Objective:** Learn the Cylinder and Sphere commands, expand knowledge of the Intersect command and
+Appearance feature
+
+**Design Summary:**
+- Used Cylinder command to create an appropriately dimensioned cylinder on the x-y origin plane
+- Used Intersect command to create two construction lines running perpendicular and horizontal to the top
+of the cylinder
+- Used Sphere command to create a sphere centered at the end of the perpendicular construction line
+- Filleted the intersection of the sphere and cylinder as well as the bottom edge of the cylinder
+- Applied LED appearance to bulb as well as a glossy plastic appearance to the base
+- Created additional cylinder on bottom to provide a body to thread
+- Created thread and offset 3 mm, then Chamferred the remaining surface
+- Added a final cylinder for the "electrical foot contact" and chamferred it
+**Notes:**
+- The cylinder that I created for the thread body had to be defined with a height of -15 mm instead of 15 mm 
+because of the way that I initally set up my graph. This caused the thread to start from the bottom. The Offset 
+feature in the Thread command only offsets from the relative bottom of the thread, meaning the top of my cylinder.
+I solved this problem by creating two cylinders on top of each other, and only applying the thread to the larger one
+that corresponded to the desired length of thread
+- Next step: Use Fusion to model the highest performing fin from OpenRocket simulations (Week 2 project)

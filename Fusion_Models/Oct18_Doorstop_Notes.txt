@@ -15,4 +15,4 @@ Offset Faces commands.
 - Filleted ridges and other sharp edges.
 
 **Notes:**
-- Next step: Use Fusion to model the highest performing fin from OpenRocket simulations
+- Next step: Use Fusion to model the highest performing fin from OpenRocket simulations (Week 2 project)
