@@ -1,0 +1,13 @@
+# Week 2 - Fusion 360 Basics: Rocket Fin Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 20, 2025  
+**Objective:** Model the properly dimensioned fin from the highest performing OpenRocket simulation
+
+**Design Summary:**
+- Sketched lines based on the following dimensions (cm): root chord: 4, height: 3, tip chord: 2.5, sweep length: 1.73
+- Sketched a perpendicular line from the start of the tip chord and applied a sketch dimension of 1.73 
+between the start of the root chord at the origin and the intersection point of the perpendicular line
+and the root chord. This ensured the proper dimensions. 
+**Notes:**
+- Next step: Model the fins and nosecone of model rocket kit (week 3 project)
