@@ -1,0 +1,19 @@
+# Week 2 - Fusion 360 Basics: Phonecase Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 21, 2025  
+**Objective:** Learn how to import external designs and use the Joint command, as well as reiterate 
+use of the Project and Sweep commands
+
+**Design Summary:**
+- Imported a CAD file of a Google Pixel
+- Used Joint to lay it flat on an origin plane
+- Used the Sweep feature to create a basic case around it
+- Offset the edge of the Sweep from the screen and chamferred it
+- Projected geometry that required any cutouts and then used the "To Object" option in Extrude
+to cut away the case to the inner face
+
+**Notes:**
+- Learned that you can connect points by using a Three Point Arc and then assigning a Conincident constraint
+to the third point and a point far away, which essentially deletes the arc and connects the endpoints
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
