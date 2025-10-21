@@ -23,5 +23,6 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-18** - Modelled a doorstop in Fusion to learn the Three Point Arc feature and expand on the Chamfer, Emboss, and Offset Faces commands; write rocketry proposal for university club
 - **2025-10-19** - Modelled a lightbulb in Fusion to learn the Cylinder and Sphere commands, and expand knowledge of the Intersect command and Appearance feature
 - **2025-10-20** - Modelled the highest performing fin from OpenRocket simulations in Fusion
+- **2025-10-21** - Modelled a phone case in Fusion to learn how to import external CAD files and the Joint command, and reiterate the Project and Sweep commands
 ## Contact
 **Email:** mdula@catholic.tech
