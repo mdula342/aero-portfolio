@@ -21,5 +21,7 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-16** - Modelled a hex nut in Fusion to learn the Circumscribed Polygon tool, Custom Chamfer feature, and Hole command; completed lessons in OpenRocket course.
 - **2025-10-17** - Modelled a bike handlebar grip in Fusion to learn the Text, Emboss, and Combine features; finished OpenRocket intro and added certificate.
 - **2025-10-18** - Modelled a doorstop in Fusion to learn the Three Point Arc feature and expand on the Chamfer, Emboss, and Offset Faces commands; write rocketry proposal for university club
+- **2025-10-19** - Modelled a lightbulb in Fusion to learn the Cylinder and Sphere commands, and expand knowledge of the Intersect command and Appearance feature
+- **2025-10-20** - Modelled the highest performing fin from OpenRocket simulations in Fusion
 ## Contact
 **Email:** mdula@catholic.tech
