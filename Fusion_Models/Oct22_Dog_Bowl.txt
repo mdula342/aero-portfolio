@@ -1,0 +1,19 @@
+# Week 2 - Fusion 360 Basics: Dog Bowl Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 22, 2025  
+**Objective:** Learn basic surface modelling (Revolve, Thicken, and Offset commands), the Trim command and 
+Section Analysis 
+
+**Design Summary:**
+- Sketched an outline of the right hand side profile of the bowl using the Line command
+- Applied the Trim command to remove excess line length used as a buffer during the sketch
+- Applied the surface modelling Revolve command to create full shape and applied a fillet to sharp edges
+- Used the Thicken command to convert the surface into a solid body
+- Used the Offset command to create another body around the flange of the bowl for a rubber grip
+- Used Section Analysis to observe the thickness of the bowl from a cutaway perspective
+**Notes:**
+- Learned that surface bodies have one gray face and one yellow face which helps distinguish them
+from solid bodies
+- Learned that surface modelling is much better for creating complex geometries efficiently 
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
