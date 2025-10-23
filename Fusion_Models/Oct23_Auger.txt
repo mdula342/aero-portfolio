@@ -1,0 +1,23 @@
+# Week 2 - Fusion 360 Basics: Auger Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 23, 2025  
+**Objective:** Learn Pipe, Coil, Project to Surface, and Plane Along Path commands
+
+**Design Summary:**
+- Used the Pipe command to create a thin pipe on the x-z plane
+- Used the Coil command to wrap the outline of the auger spiral around the pipe
+- Used to Project To Surface command to project the body of the coil onto the surface of the pipe
+- Used the Plane Along Path command to create a plane at the bottom of the coil and created a rectangle
+of the length and width of the auger blade
+- Used Sweep command with a guide surface to create the full auger spiral
+- Created an offset plane below the pipe to sketch a point, and then lofted the pipe to the point
+to create a sharp spike
+- Chamferred start of blade
+
+**Notes:**
+- Learned that the Sweep command sometimes requires a guide surface to avoid problematic geometry
+intersections
+- Learned that seemingly harmless geometry can disrupt the loft command, and that often this problem can
+be solved by projecting one or more of the loft profiles
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
