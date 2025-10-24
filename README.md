@@ -20,9 +20,12 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-15** - Modelled an ice cube tray in Fusion to explore applying a taper angle to an extrusion, using the Rectangular Pattern feature, creating a Midplane Construction plane, and applying the Shell command with respect to multiple faces; began an OpenRocket introductory course to provide more structure to my journey in rocket builds.
 - **2025-10-16** - Modelled a hex nut in Fusion to learn the Circumscribed Polygon tool, Custom Chamfer feature, and Hole command; completed lessons in OpenRocket course.
 - **2025-10-17** - Modelled a bike handlebar grip in Fusion to learn the Text, Emboss, and Combine features; finished OpenRocket intro and added certificate.
-- **2025-10-18** - Modelled a doorstop in Fusion to learn the Three Point Arc feature and expand on the Chamfer, Emboss, and Offset Faces commands; write rocketry proposal for university club
-- **2025-10-19** - Modelled a lightbulb in Fusion to learn the Cylinder and Sphere commands, and expand knowledge of the Intersect command and Appearance feature
-- **2025-10-20** - Modelled the highest performing fin from OpenRocket simulations in Fusion
-- **2025-10-21** - Modelled a phone case in Fusion to learn how to import external CAD files and the Joint command, and reiterate the Project and Sweep commands
+- **2025-10-18** - Modelled a doorstop in Fusion to learn the Three Point Arc feature and expand on the Chamfer, Emboss, and Offset Faces commands; wrote rocketry proposal for university club.
+- **2025-10-19** - Modelled a lightbulb in Fusion to learn the Cylinder and Sphere commands, and expand knowledge of the Intersect command and Appearance feature.
+- **2025-10-20** - Modelled the highest performing fin from OpenRocket simulations in Fusion.
+- **2025-10-21** - Modelled a phone case in Fusion to learn how to import external CAD files and the Joint command, and reiterate the Project and Sweep commands.
+- **2025-10-22** - Modelled a dog bowl in Fusion to serve as an introduction to surface modelling.
+- **2025-10-23** - Modelled an auger in Fusion to learn the Pipe, Coil, Project to Surface, and Plane Along Path commands.
+- **2025-10-24** - Modelled a screwdriver in Fusion to learn the basics of assembly construction, the Circular Pattern feature, and expand applications of the Revolve and Extrude commands.
 ## Contact
 **Email:** mdula@catholic.tech
