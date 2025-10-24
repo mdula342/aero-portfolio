@@ -1,0 +1,23 @@
+# Week 2 - Fusion 360 Basics: Screwdriver Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 24, 2025  
+**Objective:** Learn methods for organizing assemblies, Circular Pattern command
+
+**Design Summary:**
+- Created two components: "Handle" and "Shank"
+- Activated "Handle", extruded a circle, and cut grooves in the cylinder by using the Circular Pattern 
+feature to create a pattern from a semicircular cutting extrusion
+- Used the Three Point Arc command to sketch a dip in the handle near the shank and cut
+around the handle using the revolve feature
+- Extruded a circle into the handle to create space for the shank
+- Activated the shank component and extruded the inner circle out beyond the handle to create the 
+shank shaft
+- Used the Three Point Arc command to model the side profile of the tip and mirrored a symmetric cutting
+extrusion to create the full tip shape
+
+**Notes:**
+- Learned the value of using the Project feature to optimize Fusion's parametric nature, i.e., allowing 
+one to change the value of an extrusion by simply editing the Project feature in the timeline
+- Learned how to organize components prior to initiating an assembly design
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
