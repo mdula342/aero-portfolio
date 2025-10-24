@@ -26,5 +26,6 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-21** - Modelled a phone case in Fusion to learn how to import external CAD files and the Joint command, and reiterate the Project and Sweep commands.
 - **2025-10-22** - Modelled a dog bowl in Fusion to serve as an introduction to surface modelling.
 - **2025-10-23** - Modelled an auger in Fusion to learn the Pipe, Coil, Project to Surface, and Plane Along Path commands.
+- **2025-10-24** - Modelled a screwdriver in Fusion to learn the basics of assembly construction, the Circular Pattern feature, and expand applications of the Revolve and Extrude commands.
 ## Contact
 **Email:** mdula@catholic.tech
