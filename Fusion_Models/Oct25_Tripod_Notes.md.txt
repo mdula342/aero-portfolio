@@ -1,0 +1,22 @@
+# Week 3 - Fusion 360 Basics: Tripod Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 25, 2025  
+**Objective:** Learn Axis Perpendicular to Face at Point command, and better understand the value of 
+fully parametric modelling in duplicated components
+
+**Design Summary:**
+- Created new component under the root component for later copying
+- Sketched an equilateral triangle and lofted to a point to make a pyramid 
+- Used the Shell command to hollow the tripod, and extruded a circle from one side to save material
+- Used the Axis Perpendicular to Face at Point command to draw an axis through the tripod, which allowed
+the used of the Circular Pattern feature to replicate the extruded circle to each lateral face
+- Copied the component and pasted twice: once using the Paste option and one using the Paste New option
+- Edited the original tripod to observe that the changes also applied to the Paste copy, but not
+to the Paste New copy
+**Notes:**
+- Observed the efficiency of projecting existing geometry to render fully parametric designs, which then
+apply to every copy made
+- Learned that sometimes the automatic Adjust option within the Circular Pattern feature sometimes renders
+very skewed results and needs to be substituted
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
