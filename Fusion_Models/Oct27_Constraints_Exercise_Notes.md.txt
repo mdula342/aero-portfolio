@@ -1,0 +1,33 @@
+# Week 3 - Fusion 360 Basics: Constraints Exercise
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 27, 2025  
+**Objective:** Better understand the proper methods for constraining sketch geometry by using the 
+	       twelve main sketch constraints
+
+**Design Summary:**
+- Horizontal/Vertical Constraint – Used to make the center vertical line stay perfectly upright and 
+	to ensure the top two lines remain perfectly horizontal.
+- Coincident Constraint – Applied where the vertical line meets the upper horizontal line, keeping their 
+	endpoints joined so they always touch.
+- Tangent Constraint – Added between the arc on the left and its two connecting lines to create smooth 
+	tangent transitions at both sides of the rounded corner.
+- Equal Constraint – Used on the two top horizontal lines so they stay the same length.
+- Parallel Constraint – Applied between two non-horizontal angled lines on the right side so they remain 
+	parallel.
+- Perpendicular Constraint – Used at multiple corners, including where the leftmost vertical and top 
+	horizontal lines meet, to maintain clean 90° angles.
+- Fix/Unfix Constraint – Applied to the intersecting pair of lines on the far left and top left to fix
+	all aspects of their geometry
+- Midpoint Constraint – Used to snap the endpoint of the central vertical line to the midpoint of the 
+	bottom horizontal line.
+- Concentric Constraint – Applied between the small inner circle and the larger outer arc on the left to 
+	ensure they share the same center point.
+- Collinear Constraint – Used on the two top horizontal segments to align them along the same line, 
+	merging their axes.
+- Symmetry Constraint – Applied to the pair of isolated lines within the sketch geometry, using the 
+	middle vertical line as the axis of symmetry.
+- Curvature Constraint – Applied to the small separate sketch on the right between the straight line and 
+	the spline to create a smooth, continuous (G2) curve transition.
+**Notes:**
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)

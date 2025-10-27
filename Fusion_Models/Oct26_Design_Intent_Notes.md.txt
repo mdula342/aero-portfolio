@@ -1,0 +1,17 @@
+# Week 3 - Fusion 360 Basics: Design Intent Exercise
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 26, 2025  
+**Objective:** Better understand design intent in parametric modelling 
+
+**Design Summary:**
+- Created a center rectangle, placed a center circle inside, and extruded the remainder of the rectangle
+to make a washer plate
+- Learned how to apply a dimension so that the circle is always half the length of the edge,
+by using the dimension number divided by 2, i.e., d1/2
+- Made a Paste New copy of the plate and then learned how to make the circle always 40 mm from the bottom
+edge. Deleted a coincident constraint at the center point, applied a 40 mm dimension betweeen the circle
+center and the bottom edge, and applied a vertical constraint the the origin and center point
+
+**Notes:**
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
