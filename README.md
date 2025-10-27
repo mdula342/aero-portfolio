@@ -4,12 +4,11 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **Math** — Multivariable Calculus (completed), Numerical Methods (in progress)  
 - **Python** — beginner (plotting & simple scripts) 🔧 In progress (started Oct 2025)  
 - **OpenRocket** — learning (running simulations) 🔧 In progress  
-- **CAD (Fusion 360)** — beginner (basic sketches & extrude) 🕒 Planned / just started  
-- **Microcontrollers (Arduino/Pico)** — beginner — reading docs 🕒 Planned
+- **CAD (Fusion 360)** — beginner (basic solid and surface modelling) 
+- **Microcontrollers (Arduino/Pico)** — beginner — 🕒 Planned
 ## Short-term goals (8 weeks)
 1. Fly a beginner model-rocket kit at a sanctioned launch and publish **Flight Report #1**.  
 2. Learn basic Fusion360 workflows (sketch → extrude → assembly) and upload screenshots.  
-3. Build a simple Python plot script to visualize altimeter CSV data.
 ## Learning log (most recent entries)
 - **2025-10-08** — Installed OpenRocket and ran first sample simulation.
 - **2025-10-10** - Started Fusion 360 learning; created cube model.
@@ -27,6 +26,10 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-22** - Modelled a dog bowl in Fusion to serve as an introduction to surface modelling.
 - **2025-10-23** - Modelled an auger in Fusion to learn the Pipe, Coil, Project to Surface, and Plane Along Path commands.
 - **2025-10-24** - Modelled a screwdriver in Fusion to learn the basics of assembly construction, the Circular Pattern feature, and expand applications of the Revolve and Extrude commands.
-- **2025-10-24** - Modelled a painter's tripod in Fusion to learn the Axis Perpendicular to Face at Point command, and to better understand the value of fully parametric modelling with duplicated components.
+- **2025-10-25** - Modelled a painter's tripod in Fusion to learn the Axis Perpendicular to Face at Point command, and to better understand the value of fully parametric modelling with duplicated components.
+- **2025-10-26** - Completed an exercise regarding design intent in Fusion, during which I learned how to leverage constraints to create fully parametric designs
+- **2025-10-27** - Completed an exercise regarding constraints in Fusion, and I learned the various uses of all twelve
+main sketch constraints.
+
 ## Contact
 **Email:** mdula@catholic.tech
