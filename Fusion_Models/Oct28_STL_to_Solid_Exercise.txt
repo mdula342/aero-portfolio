@@ -1,0 +1,25 @@
+# Week 3 - Fusion 360 Basics: STL to Solid Exercise
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 28, 2025  
+**Objective:** Better understand the uses of Convert Mesh, Face Groups, and the different options
+	       of those commands
+
+**Design Summary:**
+– Began by importing an STL mesh file through Insert > Insert Mesh, selecting the file from the 
+  computer, and taking note of the scale since STL files are unitless.
+– Opened the Mesh tab and ran Convert Mesh after ensuring there were no repair warnings; this 
+  tool allowed the translation from mesh triangles to solid geometry.
+– Used the Faceted conversion first, which quickly produced a solid but retained thousands of 
+  small triangular faces, suitable for measurement or planar edits only.
+- Switched to the Prismatic method, which rebuilt clean faces for a more editable solid; this 
+  required generating Face Groups to define boundaries between surfaces.
+– Tested both Fast and Accurate face group options — Fast worked well for simple parts, while 
+  Accurate was necessary when small miscolored regions or misidentified edges caused surface-only results.
+– Re-converted the mesh after refining the face groups, resulting in a proper solid body that 
+  could be extruded, thickened, or embossed, though it remained non-parametric.
+
+**Notes:**
+– Learned that a gold mesh icon will appear in the side panel to distinguish meshes from 
+  other geometry
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
