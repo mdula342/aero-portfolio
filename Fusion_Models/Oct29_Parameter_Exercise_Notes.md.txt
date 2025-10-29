@@ -1,0 +1,27 @@
+# Week 3 - Fusion 360 Basics: Parameters Exercise
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 28, 2025  
+**Objective:** Learn how to use parameters and the Joint command
+
+**Design Summary:**
+- Began by opening Change Parameters from the Modify menu to define User Parameters that controlled 
+  design dimensions through reusable equations.  
+- Created parameters named BoxWidth and BoxHeight, assigning them values of 50 mm and 40 mm; noted that 
+  parameter names could not include spaces.  
+- Drew a two-point rectangle on the bottom origin plane of a new “Box Bottom” component, applying the 
+  BoxWidth parameter to both dimensions and renaming the sketch for clarity.  
+- Extruded the rectangle using BoxHeight / 2 to create the bottom half, then used the Shell command to 
+  hollow it while defining an "on-the-fly" parameter WallThickness = 2 mm.  
+- Verified that parameters created during operations appeared in the Favorites list and tested their 
+  functionality by changing expressions—confirming the model updated automatically.  
+- Practiced parametric design discipline by fully constraining the sketch and testing parameter changes 
+  to ensure relationships behaved as expected.  
+- Duplicated the bottom component to create a “Box Top” using Right-click > Copy > Paste New so it could 
+  be modified independently of the original.  
+- Applied the Joint tool to align and position the top relative to the bottom, defining joint origins at 
+  opposing corners and adjusting rotation to achieve correct lid orientation.  
+- Confirmed that modifying any User Parameter automatically resized both components and maintained the 
+  joint relationship, completing the creation of a fully parametric box.  
+**Notes:**
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
