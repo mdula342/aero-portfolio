@@ -1,0 +1,18 @@
+# Week 3 - Fusion 360 Basics: Hinge Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 30, 2025  
+**Objective:** Learn the Combine command and how to create a basic hinge
+
+**Design Summary:**
+- Positioned the two halves of the box made the day before side by side
+- Sketched out the basic side profile of the hinge
+- Extruded the sketch and placed another extruded center circle on it to form the nub of the hinge
+- Made another adjacent sketch connecting to the other box half, and extruded it
+  making sure to add an offset between the two halves of the hinge for clearance
+- Used the Combine command to cut out the nub out of the second extrusion to allow freedom of motion
+  and added an offset within the cutout for the same reason
+- Mirrored the hinge over to the other side 
+**Notes:**
+- Noted the use of an extrusion angle, which was applied to the nub
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)

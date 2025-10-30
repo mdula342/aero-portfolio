@@ -1,7 +1,7 @@
 # Week 3 - Fusion 360 Basics: Parameters Exercise
 
 **Software:** Autodesk Fusion 360  
-**Date:** October 28, 2025  
+**Date:** October 29, 2025  
 **Objective:** Learn how to use parameters and the Joint command
 
 **Design Summary:**
