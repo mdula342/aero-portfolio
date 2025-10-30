@@ -31,7 +31,8 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-27** - Completed an exercise regarding constraints in Fusion, and I learned the various uses of all twelve
 main sketch constraints.
 - **2025-10-28** - Completed an exercise regarding STL to solid conversion in Fusion, and I learned the different ways to use the Convert Mesh and Face Groups features. 
-- **2025-10-29** - Completed an exercise regarding parameters in Fusion, in order to learn how to use them properly as well as learn the Joint command
+- **2025-10-29** - Completed an exercise regarding parameters in Fusion, in order to learn how to use them properly as well as learn the Joint command.
+- **2025-10-30** - Completed a hinge model in fusion, in order to learn how to create a basic hinge as well as learn the use of the Combine command.
 - 
 ## Contact
 **Email:** mdula@catholic.tech
