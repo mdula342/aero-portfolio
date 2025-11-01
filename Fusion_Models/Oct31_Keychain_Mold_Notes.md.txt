@@ -1,0 +1,24 @@
+# Week 3 - Fusion 360 Basics: Keychain Mold Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 31, 2025  
+**Objective:** Learn the the process of creating a mold, as well as the Draft command
+
+**Design Summary:**
+- Extruded a rectangle to create the basic shape
+- Filleted edges for keychain look and applied the Hold command to make the chain hole
+- Used the Text command to print my name on the keychain, and extruded it to a distance of 1.5 mm
+- Created a new component, projected the the body of the keychain, and offset it a few mm
+- Extruded the offset face as well as the original projection
+- Used the Combine command to cut away the body of the original keychain
+- Applied the Draft command to the mold in order to obtain a draft angle on the walls of the mold
+  and chain hole
+**Notes:**
+- Learned that you can use "Explode Text" to extrude text if the font does not lend itself to
+  typical extrusion
+- At the end, found that the mold had a hole in it at the location of the chain hole. However, 
+  it should have been a nub, in order to create a hold in the molded keychain. I used the Two Point
+  Circle command for the first time to create a circle that matched the diameter and center point of the
+  hole. I then extruded this to 3mm after determining that this was the proper depth of the keychain
+  using the measuring tool. I also applied the same draft angle to the nub
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)

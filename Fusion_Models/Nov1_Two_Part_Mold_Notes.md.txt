@@ -1,0 +1,28 @@
+# Week 3 - Fusion 360 Basics: Chess Set Two Part Mold Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 1, 2025  
+**Objective:** Learn the the process of creating a two part mold with registration marks, and the 
+               Split Body command
+
+**Design Summary:**
+- Created a rectangle around the pieces and extruded such that it enclosed each piece
+- Activated the Combine command and cut the pieces from the block
+- Used the Split Body command to split the box down the XZ origin plane
+- Created polygons on the surface of the right body, extruded them, and used the combine command to
+  cut them out of the left body to create the registration marks
+- Used the Offset Face command to apply the necessary clearance within the registration mark holes
+- Chamferred the outer edges of the mold for convenience
+**Notes:**
+- (The two halves of the mold are titled "Left" and "Right" under the "Mold Box" component, if you plan 
+  on opening the file to see inside the mold)
+- Learned that little cusps or edges are not ideal to have on the part line, as they can create 
+  slightly messy results. Saw that the solution is simply to rotate the piece around its joint
+  so that it is perfectly symmetric about the part line and has as few intricate details lying on the
+  part line as possible
+- Used a slightly different CAD file than the tutorial for the chess pieces that were being molded,
+  and after the Combine command I was left with screws that had been in the bottom of the pieces. I
+  applied a separate Combine command to cut them out of the mold
+- Learned the techniques for cutting pour holes in more complex molds, as well as the importance of
+  vent holes (to avoid air bubbles and poorly rendered details) in such molds.
+- Next step: Model the fins and nosecone of model rocket kit (Week 3 project)
