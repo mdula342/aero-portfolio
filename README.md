@@ -34,6 +34,7 @@ main sketch constraints.
 - **2025-10-29** - Completed an exercise regarding parameters in Fusion, in order to learn how to use them properly as well as learn the Joint command.
 - **2025-10-30** - Completed a hinge model in fusion, in order to learn how to create a basic hinge as well as learn the use of the Combine command.
 - **2025-10-31** - Completed a 3d printable mold for making keychains to learn how to create functional molds with a 3d printer and to learn the Draft command.
+- **2025-11-1** - Modelled a two part chess set mold in Fusion, in order to learn the techniques for making multi-part molds and also the Split Body command.
 - 
 ## Contact
 **Email:** mdula@catholic.tech
