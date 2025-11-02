@@ -1,0 +1,21 @@
+# Week 3 - Fusion 360 Basics: Rocket1 Nosecone Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 1, 2025  
+**Objective:** Independently produce an accurately dimensioned model of the nosecone of rocket project #1,
+	       kit #1948
+
+**Design Summary:**
+- Created an ellipse of major axis length 127 mm and minor axis length 41.6 mm 
+  (used the given specifications)
+- Used the Cut tool to trim all but one quarter of the ellipse
+- Revolved this quarter around the Z axis to create a semi-ellipsoid
+- Used the Shell command to hollow the cone at the given wall thickness of 3.18 mm
+- Projected the circle of the inner base onto a sketch on the XY origin plane, and extruded it to make
+  a shoulder for the cone to sit in the body tube of the rocket
+- Used the hole command to hollow this cylinder with the same wall thickness as before
+**Notes:**
+- Learned that it is best to consider the dimensions of projects carefully before starting. Needed to
+  redo the cone several times after misinterpreting the base diamter measurement as the distance between 
+  the two inner edges of the cone
+- The fins will be modelled as soon as they can be measured upon the arrival of the physical kit
