@@ -36,6 +36,7 @@ main sketch constraints.
 - **2025-10-31** - Completed a 3d printable mold for making keychains to learn how to create functional molds with a 3d printer and to learn the Draft command.
 - **2025-11-1** - Modelled a two part chess set mold in Fusion, in order to learn the techniques for making multi-part molds and also the Split Body command; researched the specifications for the nosecone of my first rocket kit, and modelled
 it accordingly in Fusion.
--
+- **2025-11-2** - Completed an As Built Joints exercise in Fusion to learn the Slider, Rigid, Revolute, and Ball functions.
+- 
 ## Contact
 **Email:** mdula@catholic.tech
