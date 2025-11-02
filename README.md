@@ -27,12 +27,14 @@ Hi, my name is Matthew Dula, and I am an American mechanical engineering student
 - **2025-10-23** - Modelled an auger in Fusion to learn the Pipe, Coil, Project to Surface, and Plane Along Path commands.
 - **2025-10-24** - Modelled a screwdriver in Fusion to learn the basics of assembly construction, the Circular Pattern feature, and expand applications of the Revolve and Extrude commands.
 - **2025-10-25** - Modelled a painter's tripod in Fusion to learn the Axis Perpendicular to Face at Point command, and to better understand the value of fully parametric modelling with duplicated components.
-- **2025-10-26** - Completed an exercise regarding design intent in Fusion, during which I learned how to leverage constraints to create fully parametric designs
+- **2025-10-26** - Completed an exercise regarding design intent in Fusion, during which I learned how to leverage constraints to create fully parametric designs.
 - **2025-10-27** - Completed an exercise regarding constraints in Fusion, and I learned the various uses of all twelve
 main sketch constraints.
 - **2025-10-28** - Completed an exercise regarding STL to solid conversion in Fusion, and I learned the different ways to use the Convert Mesh and Face Groups features. 
 - **2025-10-29** - Completed an exercise regarding parameters in Fusion, in order to learn how to use them properly as well as learn the Joint command.
 - **2025-10-30** - Completed a hinge model in fusion, in order to learn how to create a basic hinge as well as learn the use of the Combine command.
+- **2025-10-31** - Completed a 3d printable mold for making keychains to learn how to create functional molds with a 3d printer and to learn the Draft command.
+- **2025-11-1** - Modelled a two part chess set mold in Fusion, in order to learn the techniques for making multi-part molds and also the Split Body command.
 - 
 ## Contact
 **Email:** mdula@catholic.tech
