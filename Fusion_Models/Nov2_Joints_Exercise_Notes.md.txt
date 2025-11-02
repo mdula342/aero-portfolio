@@ -1,0 +1,18 @@
+# Week 4 - Fusion 360 Basics: Joints Exercise
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 2, 2025  
+**Objective:** Learn the usages of As Built Joints, i.e., Rigid, Slider, Revolute, and Ball
+
+**Design Summary:**
+- Opened the camera tripod demo file from the Assemblies section of Basic Training in the data panel
+- Applied the Slider option of the As Build Joint command to the bottom and top portions of the legs
+- Applied the Rigid option to the bottom leg and foot, to the top leg and all the smaller components that
+  it connected to
+- Applied the Revolute option to the top leg connector and the bracket
+- Applied the Ball option to the camera swivel and the swivel stand
+
+**Notes:**
+- Learned how to apply snaps and angles to limit range of joint motion
+- Learned how to pin/ground components
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
