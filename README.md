@@ -37,6 +37,6 @@ main sketch constraints.
 - **2025-11-1** - Modelled a two part chess set mold in Fusion, in order to learn the techniques for making multi-part molds and also the Split Body command; researched the specifications for the nosecone of my first rocket kit, and modelled
 it accordingly in Fusion.
 - **2025-11-2** - Completed an As Built Joints exercise in Fusion to learn the Slider, Rigid, Revolute, and Ball functions.
-- 
+- **2025-11-3** - Modelled a napkin holder with sheet metal in order to learn the usages of the Flang command, Sheet Metal Rules selection, the Full Round Fillet option, and Flat Pattern features.
 ## Contact
 **Email:** mdula@catholic.tech
