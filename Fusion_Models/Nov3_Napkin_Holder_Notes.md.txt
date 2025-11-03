@@ -1,0 +1,27 @@
+# Week 4 - Fusion 360 Basics: Napkin Holder Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 3, 2025  
+**Objective:** Learn the basic rules of sheet metal modelling with different usages of the Flange 
+               command and the Sheet Metal Rules selection; learn the Full Round Fillet option and 
+               to create flat patterns
+
+**Design Summary:**
+- Sketched a center rectangle and then opened the sheet metal tab
+- Activated the Flange command and selected the rectangle
+- Reactivated the Flange command and selected the two long edges, and created the two walls of the 
+  napkin holder
+- Used the Full Round Fillet option from the Fillet command to round over each side
+- Used the Offset command to create a slot outline in one of the sides by offsetting the edges of the side 
+- Extruded this outline by selecting To Object and clicking on the far face of the opposite side to 
+  create the full slots in both sides
+- Sketched a very small circle on the base and cut it from the body
+- Changed the sheet metal rule to a particular type of steel well suited to a napkin holder
+
+**Notes:**
+- Learned how to select outer and inner options within the Flange tool for both Height Datum and 
+  Bend Position and what differences they make, which are particularly important for high precision 
+  modelling
+- Learned that fabrication companies need the small hole in order to hange the product for powder-coating
+- Observed the methods for exporting the file for manufacturing
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
