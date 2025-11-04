@@ -1,0 +1,29 @@
+# Week 4 - Fusion 360 Basics: Propeller Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 4, 2025  
+**Objective:** Progress in surface modeling capability by learning the Loft command and key surface 
+               surface modeling concepts
+
+**Design Summary:**
+- Inserted a canvas of a triple bladed propeller 
+- Sketched a center circle for the central hub
+- Created an offset plane near the intersection of the blade with the hub and sketched a three point
+  arc to outline the base of the blade
+- Created a second offset plane far out from the blades and drew a long line such that, when the endpoints
+  were connected to the endpoints of the three point arc on the hub, the connecting lines contained the 
+  full profile of the blade
+- Used the surface Loft command to create a surface body connecting the three point arc and the long line
+- Used a Fit Point Spline to sketch the overhead shape of the blade on the XY origin plane
+- Extruded the edge of the sketch to the top of the hub
+- Used the Trim command to cut away the part of lofted body outside of the extruded blade profile,
+  leaving the body corresponding to the inclusive intersection of the loft and extrude
+- Used the Circular Pattern feature to duplicate the body around the hub three times
+- Used the Thicken command to create solid bodies from the three surface bodies
+
+**Notes:**
+- Learned key surface modeling vocabulary, including "surface", "edge", and "boundary"
+- Learned use of Patch tool
+- Saw an excellent example of how combinations of multiple, simple sketches can create a more complex shape
+- Learned that surface modeling commands very often require less sketch geometry 
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
