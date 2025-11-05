@@ -1,0 +1,25 @@
+# Week 4 - Fusion 360 Basics: Rasberry Pi Case Edit
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 5, 2025  
+**Objective:** Learn Mesh commands such as Create Mesh Section Set, Fit Curves to Mesh Section, 
+               Tessellate, and Combine, as well as multi-directional extrusions
+
+**Design Summary:**
+- Imported an STL file of the Rasberry Pi Case
+- Used the measuring tool to create an offset plane of the same hight as the case
+- Used Create Mesh Selection Set to facilitate the desired editing
+- Used Fit Curves to Mesh Section to allow the change of the size of four vertical holes in the case
+  and created additional circles that overlapped the previous ones to ensure that the design was without 
+  gaps
+- Extruded these circles using two directions so that the extrusion lined up perfectly with the height of
+  the case
+- Used the Tessellate tool to convert the extrusions to mesh bodies
+- Used the Combine tool to combine them with the original body
+- Used another offset plane to create text on the top of the case, and extruded again
+- Used Tessellate and Combine to cut the text out of the top of the case
+**Notes:**
+- Learned that the measuring tool can be defined based on many different coordinate systems, which allows
+  convient use
+- Learned how to choose the proper refinement when using the Tessellate feature
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
