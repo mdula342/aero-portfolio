@@ -39,6 +39,7 @@ it accordingly in Fusion.
 - **2025-11-2** - Completed an As Built Joints exercise in Fusion to learn the Slider, Rigid, Revolute, and Ball functions.
 - **2025-11-3** - Modelled a napkin holder with sheet metal in order to learn the usages of the Flang command, Sheet Metal Rules selection, the Full Round Fillet option, and Flat Pattern features.
 - **2025-11-4** - Surfaced modeled a propeller in Fusion to learn key surface modeling concepts and the Loft command.
-- 
+- **2025-11-5** - Completed a mesh model exercise in Fusion to learn Mesh commands such as Create Mesh Section Set, Fit Curves to Mesh Section, Tessellate, and Combine, as well as multi-directional extrusions.
+
 ## Contact
 **Email:** mdula@catholic.tech
