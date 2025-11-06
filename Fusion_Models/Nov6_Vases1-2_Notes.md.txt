@@ -1,0 +1,36 @@
+# Week 4 - Fusion 360 Basics: Simple (Vase 1) and Complex (Vase 2) Vase Models
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 6, 2025  
+**Objective:** Learn to use Form modeling through the following Create Form commands: Edit Form, Revolve, 
+               Circular Symmetry, Insert Edge, Crease, Split Body, and Patch
+
+**Design Summary:**
+- Vase 1: used a Create Form menue to create a cylinder
+- Applied the Edit Form command to expand the width of two rows near the bottom to create the desired 
+  curvature
+- Extended the top of the vase to balance the proportions
+- Vase 2: Sketched a side profile of the vase using a spline sketch
+- Used the Revolve command in the Create Form tab to produce a vase shaped Form
+- Changed the number of faces by defining twenty longitudinal lines and eight lateral lines
+- Turned on Circular Symmetry so all changes would propogate to every edge
+- Added a new set of vertical edges by using Insert Edge to offset an edge by ten percent of the width 
+  between it and the adjacent edge
+- Selected all edges and used the Crease command to turn all edges into sharp connections
+- Used the Edit Form command to drag the edge lines outwards to create sharp ridges
+- Removed the symmetry parameter and applied the Edit Form command to rotate the ridges of the top
+  six rows of faces. This was done by starting with a 45 degree angle and decreasing the angle by 5 
+  degrees for each panal in ascending order. This created the desired twisted appearance
+- Created construction planes offset towards the inside of the bottle a small distance from the bottom 
+  and the top
+- Used the Split Body command to remove the material outside of the two planes, leaving a bottle without
+  the previously jagged top and bottom
+- Used the Patch command to close the hole in the bottom and used the Stitch command to recreate one body
+- Used the Thicken command to create a solid body
+  
+
+**Notes:**
+- Learned that extending a form while holding the ALT key creates additional faces according to the 
+  previous pattern; otherwise, the faces will just stretch
+- Learned how to define the number of faces for ease of design and best outcome
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
