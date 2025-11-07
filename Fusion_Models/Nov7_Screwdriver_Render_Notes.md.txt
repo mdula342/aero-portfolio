@@ -1,0 +1,20 @@
+# Week 4 - Fusion 360 Basics: Screwdriver Render 
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 7, 2025  
+**Objective:** Learn Rendering using Appearances, an In-Canvas Render, Decal, and final Render
+
+**Design Summary:**
+- Used a simple extrusion to create a surface for the screwdriver to sit on
+- Opened the Render workspace and added appearances to each component of the screwdriver as well as the 
+  surface, editing the color of the screwdriver tip to represent its extra tempering 
+- Used the In-Canvas Render feature to preview the appearance of the final product
+- Used the Decal feature to add a decal to the handle of the screwdriver
+- Used the Render feature to run a local render set to Final
+  
+**Notes:**
+- Learned that it is possible to simply drag a new appearance over an older one in the appearances tab. 
+  This replaces the old appearance with the new one in every instance, which saves considerable time in
+  larger models
+- Learned how to edit the Scene Settings to achieve the desired appearance
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
