@@ -41,6 +41,7 @@ it accordingly in Fusion.
 - **2025-11-4** - Surfaced modelled a propeller in Fusion to learn key surface modeling concepts and the Loft command.
 - **2025-11-5** - Completed a mesh model exercise in Fusion to learn Mesh commands such as Create Mesh Section Set, Fit Curves to Mesh Section, Tessellate, and Combine, as well as multi-directional extrusions.
 - **2025-11-6** - Modelled a simple and a complex vase in Fusion to learn to use Form modeling through the following Create Form commands: Edit Form, Revolve, Circular Symmetry, Insert Edge, Crease, Split Body, and Patch.
+- **2025-11-7** - Rendered a screwdriver in Fusion to learn rendering using Appearances, an In-Canvas Render, Decal, and final Render. 
   
 ## Contact
 **Email:** mdula@catholic.tech
