@@ -41,7 +41,13 @@ it accordingly in Fusion.
 - **2025-11-4** - Surfaced modelled a propeller in Fusion to learn key surface modeling concepts and the Loft command.
 - **2025-11-5** - Completed a mesh model exercise in Fusion to learn Mesh commands such as Create Mesh Section Set, Fit Curves to Mesh Section, Tessellate, and Combine, as well as multi-directional extrusions.
 - **2025-11-6** - Modelled a simple and a complex vase in Fusion to learn to use Form modeling through the following Create Form commands: Edit Form, Revolve, Circular Symmetry, Insert Edge, Crease, Split Body, and Patch.
-- **2025-11-7** - Rendered a screwdriver in Fusion to learn rendering using Appearances, an In-Canvas Render, Decal, and final Render. 
+- **2025-11-7** - Rendered a screwdriver in Fusion to learn rendering using Appearances, an In-Canvas Render, Decal, and final Render.
+- **2025-11-8** - Created a manufacturing drawing of a toy block in Fusion to become familiar with the Drawing Workspace by creating and editing different views through
+the Projected View, Detailed View, Dimension, and Radius Dimension commands.
+- **2025-11-9** - Created an animation of a car in Fusion to become familar with the Animation workspace through the Auto-Explode, Reverse, Restore Home
+and Transform commands, along with editing actions in the timeline. This markes my completion of the "Learn Fusion360 in 30 Days" course from Product Design Online.
+- **2025-11-10** - Modelled the engine mount and pin sleeves for my independent gimbal mechanism project in Fusion.
+
   
 ## Contact
 **Email:** mdula@catholic.tech
