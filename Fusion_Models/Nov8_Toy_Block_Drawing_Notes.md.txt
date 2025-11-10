@@ -1,0 +1,26 @@
+# Week 4 - Fusion 360 Basics: Toy Block (from Oct.11) Drawing
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 8, 2025  
+**Objective:** Become familiar with the Drawing Workspace by creating and editing different views through
+               the Projected View, Detailed View, Dimension, and Radius Dimension commands
+
+**Design Summary:**
+- Navigated to File > New Drawing > From Design
+- Placed the base (a side profile) and used Projected View to add the other side profile and both the
+  the bottom and top views; also added a 3D isometric view in the top right corner
+- Altered every view by double clicking on the base view and selecting "Visible Edges."
+- Converted the alternate side profile to "Hidden" and the 3D view to "Shaded"
+- Clicked and dragged views to achieve desired spacing
+- Practiced adding dimensions using the Dimension tool, as well as fillet dimensions using the
+  Radial Dimension command
+- Used the Detailed View command to present the fillet dimensions, as they were quite small
+  
+
+**Notes:**
+- Learned that the taskbar on the bottom of the workspace allows for convient drawing additions
+- Learned that any necessary annotations can be created using the Text feature
+- Learned how to use the Automatic option in place of Manual
+- Learned quite a bit about the preference settings and how my graphics drivers can limit Fusion 360's 
+  performance, as many of my computer's graphics features required updates
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)

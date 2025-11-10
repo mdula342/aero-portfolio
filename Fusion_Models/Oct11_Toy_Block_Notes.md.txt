@@ -1,0 +1,19 @@
+# Week 1 - Fusion 360 Basics: Toy Block Model
+
+**Software:** Autodesk Fusion 360  
+**Date:** October 11, 2025  
+**Objective:** Learn the Sketch Dimension, Line, Center Circle, Rectangle, Rectangular Pattern, Extrude, 
+               Shell, and Fillet commands
+
+**Design Summary:**
+- Used the Rectangle command to create a rectangle, and used the Extrude command to convert it to a 
+  solid body
+- Placed a center circle on the top face of the body using sketch dimensions, extruded it, and used the 
+  Rectangular Pattern command to make a 2x4 pattern
+- Used the Shell command to hollow the bottom of the body
+- Used the Line command to create a construction line for a cylinder on the bottom of the cube
+- Made a line of three cylinders using Rectangular Pattern
+- Filleted sharp edges
+
+**Notes:**
+- Next step: Create and extrude a custom shape (Week 2 project)

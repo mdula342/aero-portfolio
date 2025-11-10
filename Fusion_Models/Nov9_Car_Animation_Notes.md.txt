@@ -1,0 +1,21 @@
+# Week 4 - Fusion 360 Basics: Car Animation
+
+**Software:** Autodesk Fusion 360  
+**Date:** November 9, 2025  
+**Objective:** Become familar with the Animation workspace through the Auto-Explode, Reverse, Restore Home
+               and Transform commands, along with editing actions in the timeline
+
+**Design Summary:**
+- Used the Auto-Explode command to create an exploded view, making it sequential so as to simulate
+  the assembly process in the timeline
+- Right clicked on the storyboard and selected Reverse to reverse the sequence
+- Experimented with dragging individual actions around in the timeline and redefining their durations
+- Created a new storyboard, used the Transform command to detach every component from the car body, and 
+  used the Restore Home command to generate assembly actions in the timeline
+- Sequenced these actions in the desired order 
+- Used Transform again to move the entire car out of the frame to simulate driving away
+
+**Notes:**
+- Learned that every action, including zooming in or out, is captured by the timeline if the playhead is
+  not in the scratch zone
+- Next step: Model a nozzle gimbal mechanism (Week 4-5 project)
