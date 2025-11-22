@@ -47,6 +47,8 @@ the Projected View, Detailed View, Dimension, and Radius Dimension commands.
 - **2025-11-9** - Created an animation of a car in Fusion to become familar with the Animation workspace through the Auto-Explode, Reverse, Restore Home
 and Transform commands, along with editing actions in the timeline. This markes my completion of the "Learn Fusion360 in 30 Days" course from Product Design Online.
 - **2025-11-10** - Modelled the engine mount and pin sleeves for my independent gimbal mechanism project in Fusion.
+- **2025-11-20** - Have fully finished the gimbal mechanism except for the joints; received parts for first rocket project.
+- **2025-11-21** - Assembled and installed motor mount and three of four fins. 
 
   
 ## Contact
