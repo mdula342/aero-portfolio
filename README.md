@@ -1,14 +1,13 @@
 # Aero-portfolio
 Hi, my name is Matthew Dula, and I am an American mechanical engineering student currently in my first year of undergraduate studies in Italy. My passion is aerospace engineering, and this repo documents my learning journey in simulations, electronics, CAD, and rocket builds.
+
 ## Current status as of October 8, 2025
 - **Math** — Multivariable Calculus (completed), Numerical Methods (in progress)  
 - **Python** — beginner (plotting & simple scripts) 🔧 In progress (started Oct 2025)  
 - **OpenRocket** — learning (running simulations) 🔧 In progress  
 - **CAD (Fusion 360)** — beginner (basic solid and surface modelling) 
 - **Microcontrollers (Arduino/Pico)** — beginner — 🕒 Planned
-## Short-term goals (8 weeks)
-1. Fly a beginner model-rocket kit at a sanctioned launch and publish **Flight Report #1**.  
-2. Learn basic Fusion360 workflows (sketch → extrude → assembly) and upload screenshots.  
+ 
 ## Learning log (most recent entries)
 - **2025-10-08** — Installed OpenRocket and ran first sample simulation.
 - **2025-10-10** - Started Fusion 360 learning; created cube model.
@@ -41,7 +40,15 @@ it accordingly in Fusion.
 - **2025-11-4** - Surfaced modelled a propeller in Fusion to learn key surface modeling concepts and the Loft command.
 - **2025-11-5** - Completed a mesh model exercise in Fusion to learn Mesh commands such as Create Mesh Section Set, Fit Curves to Mesh Section, Tessellate, and Combine, as well as multi-directional extrusions.
 - **2025-11-6** - Modelled a simple and a complex vase in Fusion to learn to use Form modeling through the following Create Form commands: Edit Form, Revolve, Circular Symmetry, Insert Edge, Crease, Split Body, and Patch.
-- **2025-11-7** - Rendered a screwdriver in Fusion to learn rendering using Appearances, an In-Canvas Render, Decal, and final Render. 
+- **2025-11-7** - Rendered a screwdriver in Fusion to learn rendering using Appearances, an In-Canvas Render, Decal, and final Render.
+- **2025-11-8** - Created a manufacturing drawing of a toy block in Fusion to become familiar with the Drawing Workspace by creating and editing different views through
+the Projected View, Detailed View, Dimension, and Radius Dimension commands.
+- **2025-11-9** - Created an animation of a car in Fusion to become familar with the Animation workspace through the Auto-Explode, Reverse, Restore Home
+and Transform commands, along with editing actions in the timeline. This markes my completion of the "Learn Fusion360 in 30 Days" course from Product Design Online.
+- **2025-11-10** - Modelled the engine mount and pin sleeves for my independent gimbal mechanism project in Fusion.
+- **2025-11-20** - Have fully finished the gimbal mechanism except for the joints; received parts for first rocket project.
+- **2025-11-21** - Assembled and installed motor mount and three of four fins. 
+
   
 ## Contact
 **Email:** mdula@catholic.tech
