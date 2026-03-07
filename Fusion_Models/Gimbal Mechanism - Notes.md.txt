@@ -1,0 +1,170 @@
+**Software:** Autodesk Fusion 360
+  
+**Date Completed:** 11/20/25 
+
+**Objective:** To model a gimballed engine mount designed for model rocketry for the pedagogical purposes
+of applying functional joints and growing in my understanding of assemblies.
+
+**Results:** Working joints were not effectively implemented, due primarily to messy sketching, poor labelling,
+and general disorganization resulting in downstream difficulties when particular entites had to be selected for 
+joint application. Many sketches were simply sketched over instead of edited, unlabelled, and not clearly dimensioned,
+which slowed productivity. Many bodies listed under parent components should have been their own componenets, which
+would have allowed joints to be applied with little trouble. However, by failing to be attentive to which entities
+were activated when creating different pieces of the model, many parent child relationships were created when proper
+design intent would have created clearly labelled and separated components for easy access. This is why there are many 
+copies of bodies changed into components in the design tree: components, not bodies, were needed for the joints. From 
+this I learned that it is indispensible to label every relavent entity carefully, and to take the time to fully think 
+through the design beforehand. This sort of prototyping seems to bring with it a much better understanding of how 
+components and bodies should be organized as they are created, which systematically avoids the scattered labelling and 
+nesting of bodies and components that caused most of the issues in this project. The goal was not to create a mechanism
+that would function properly in the real world, but rather one that would increase my understanding of joints and
+assemblies. However, I tried to be cognizent of as many realistic limitations as possible without losing sight of the 
+stated objective, and a bit of useful experience was gained 
+simply from the process of modelling the mechanism, a summary of which is listed below.
+
+**Design Summary:**
+SOFTWARE: Autodesk Fusion 360
+DATE COMPLETED: 11/20/25
+
+OBJECTIVE
+
+Model a gimballed engine mount for model rocketry in order to
+practice assembly organization and the implementation of
+functional joints within a CAD environment.
+
+RESULTS
+
+Functional joints were not successfully implemented due mainly
+to poor sketch organization, inconsistent labeling, and an
+improper component hierarchy in the design tree.
+
+Many sketches were recreated instead of edited, and several
+entities were left unlabeled or poorly dimensioned. Because of
+this, locating specific geometry during joint creation became
+difficult and slowed productivity.
+
+Additionally, many bodies that should have been created as
+separate components were instead placed under parent components.
+Since joints operate between components rather than bodies,
+several bodies later had to be converted into components. This
+led to unnecessary duplication and a disorganized assembly
+structure.
+
+These issues were largely caused by failing to consistently
+verify which component was active during modeling operations,
+resulting in unintended parent-child relationships.
+
+Although the mechanism was not intended to function in 
+a physically realistic way, the modeling process 
+still provided some useful experience in working
+with assemblies, and is detailed below. 
+
+
+DESIGN SUMMARY
+
+MOTOR MOUNT
+
+The motor mount houses and retains the rocket engine.
+
+a. Body Tube
+
+A cylindrical tube that serves as the primary structure
+for the motor mount.
+
+b. Centering Rings
+
+Two rings positioned inside the tube to hold the engine
+securely in place.
+
+c. Thrust Ring
+
+Located at the top of the mount. It is wide enough to absorb
+engine thrust while maintaining a central opening to allow
+airflow.
+
+d. Retaining Plug
+
+Located at the base of the tube to prevent the engine from
+slipping out prior to launch.
+
+The plug threads into the tube for easy installation and
+removal. Two small flanges allow it to be tightened or
+loosened manually.
+
+INNER PINS AND PIN SLEEVES
+
+The motor mount connects to the inner gimbal ring through
+a pair of pivot pins.
+
+a. Pin Sleeves
+
+Rigidly fixed to the motor mount.
+
+b. Pins
+
+The pins slide into the sleeves and are secured with three
+bolts. This allows disassembly for lubrication or replacement.
+
+c. Bearing Interface
+
+The pins pass through bearings seated in the inner ring.
+A small clearance allows lubrication and smooth rotation.
+
+d. Flange Constraint
+
+A flange mounted on the outside of the ring prevents the
+pins from translating axially.
+
+INNER RING
+
+The inner ring allows the motor mount to rotate about one
+axis.
+
+The inner ring itself rotates relative to the outer ring
+through a pivot arrangement similar to the one connecting
+the motor mount and inner ring. This allows rotation about
+a second orthogonal axis.
+
+OUTER RING AND SERVO ASSEMBLIES
+
+The outer ring remains fixed relative to the rocket
+structure.
+
+Each ring is actuated by a servo mechanism.
+
+The servo rotates an arm, which is connected to a flange
+attached to the pivot pin through a connecting rod. The
+connecting rod is pinned at both ends, allowing rotational
+freedom.
+
+When the servo arm moves, the connecting rod pushes or
+pulls the flange. This rotates the corresponding pin and
+adjusts the orientation of either the inner ring or the
+motor mount.
+
+CONCLUSIONS
+
+This project was intended to build familiarity with joint
+implementation and assembly organization in Fusion 360.
+
+Although the joints did not function correctly within the
+final assembly, the exercise highlighted several critical
+workflow practices:
+
+1.) Careful sketch organization
+
+2.) Consistent labeling of features and components
+
+3.) Planning component hierarchy before modeling
+
+4.) Planning ahead to create components rather than bodies when joints are
+required
+
+These lessons significantly improved my understanding of
+assembly structure and design intent in parametric CAD
+environments.
+
+I have since transitioned to SOLIDWORKS to better align
+with my industry goals. However, the importance of careful
+component organization and deliberate design structure
+will certainly remain valuable to me across many different softwares.
