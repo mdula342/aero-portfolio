@@ -1,9 +1,10 @@
 # Rocket Flight Monte Carlo Simulation
 
-This project is a numerical simulation of a model rocket flight developed as a
-final project for a Numerical Methods course. The simulation applies classical
-physics, numerical integration, and Monte Carlo analysis to study rocket
-trajectory behavior under parameter uncertainty.
+This project is a numerical simulation of a model rocket flight developed 
+as a final project for a Numerical Methods course. The simulation applies 
+classical physics and numerical integration, and extends beyond course 
+requirements by incorporating real thrust data and Monte Carlo analysis 
+to study rocket trajectory behavior under parameter uncertainty.
 
 ## Overview
 
