@@ -1,0 +1,15 @@
+% use MATLAB's built in lqr function to calculate K given A
+
+function K = lqr_design(A)
+    
+    B = [zeros(3,3); eye(3)];
+
+    % Q chosen based on Bryson's rule, using an acceptable position error
+    % of approximately 5 km and velocity error of approximately 5 m/s
+    %Q = diag([5.92e9 5.92e9 5.92e9 4.20e4 4.20e4 4.20e4]);
+    Q = diag([1e35, 1e3, 1e3, 1e2, 1e2, 1e2]);
+    R = [eye(3)];
+
+    K = lqr(A, B, Q, R);
+
+end

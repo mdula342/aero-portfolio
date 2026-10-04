@@ -1,0 +1,67 @@
+clear;
+clc;
+close all;
+
+% Define L2 point, A, K, and an initial perturbation to use as inputs for
+% the sampled data controller
+
+X_L2 = [1.155682164448510;
+    0;
+    0;
+    0;
+    0;
+    0];
+
+A = cr3bp_A_calculation(X_L2);
+
+K = lqr_design(A);
+
+X0 = [1.155682164448510 + 1e-1;
+    1e-1;
+    1e-1;
+    0;
+    0;
+    0];
+
+% Call control function
+[times, X_inputs, Xs] = sampled_data_control_propogator(0, 2, 1e-2, K, X0);
+
+% Calculate sample times to use in plotting the control accelerations
+sample_times = 0:1e-2:(2-1e-2);
+
+% Plot state vector as a function of time
+figure(1)
+plot(times, Xs)
+legend('X', 'Y', 'Z', 'Xdot', 'Ydot', 'Zdot')
+xlabel('Update Times')
+ylabel('State')
+
+% Calculate the control accelerations using the state vector from the 
+% moment of each update
+control_accelerations = [];
+
+for ii = X_inputs
+    control_accelerations = [control_accelerations, lqr_controller(K, ii)];
+end
+
+% Graph control accelerations over the update times
+figure(2)
+stairs(sample_times, control_accelerations')
+xlabel('Update Times')
+ylabel('Decomposed Control Accelerations')
+legend('X Control', 'Y Control', 'Z Control')
+
+% Calculate state error to plot over the times
+Xerrs = [];
+for ii = Xs'
+    Xerrs = [Xerrs, delta_XL2(ii)];
+end
+
+% Plot state error
+figure(3)
+plot(times, Xerrs)
+xlabel('Time')
+ylabel('State Errors')
+legend('$e_x$', '$e_y$', '$e_z$', ...
+       '$e_{\dot{x}}$', '$e_{\dot{y}}$', '$e_{\dot{z}}$', ...
+       'Interpreter', 'latex')
