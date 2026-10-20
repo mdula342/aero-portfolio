@@ -5,11 +5,15 @@
 
 % Input the start time, end time, step size, K, and an initial
 % perturbation, X0
-function [times, X_inputs, Xs] = sampled_data_control_propogator(t0, tf, h, K, X0)
+function [times, X_inputs, Xs] = propagate_sampled_lqr(t0, tf, h, K, X0)
     
     % Compute list of update times
     steps = t0:h:tf;
-
+    
+    if steps(end) < tf
+        steps = [steps, tf];
+    end
+    
     % Create a variable, X_input, that will update every loop to act as the
     % new initial condition for ode45
     X_input = X0;
@@ -26,7 +30,7 @@ function [times, X_inputs, Xs] = sampled_data_control_propogator(t0, tf, h, K, X
     % Loop through the update times and run ode45 once for each update
     % interval
     for ii = 1:(length(steps)-1)
-        [t, X] = ode45(@(t, X) sampled_controlled_cr3bp_dynamics(t, K, X, X_input), [steps(ii), steps(ii+1)], X_input);
+        [t, X] = ode45(@(t, X) cr3bp_sampled_dynamics(t, K, X, X_input), [steps(ii), steps(ii+1)], X_input);
         
         % Cut the last row/element because X_input gets set equal to the
         % last row of Xs. The start time for the next ode45 run is also the

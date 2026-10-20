@@ -2,7 +2,7 @@
 % consistency reasons. This function returns the x-acceleration, which
 % allows me to later solve for its root to find L2
 
-function ax = L2_calculation_function(x)
+function ax = l2_equilibrium_residual(x)
 
     X = [x;0;0;0;0;0];
 

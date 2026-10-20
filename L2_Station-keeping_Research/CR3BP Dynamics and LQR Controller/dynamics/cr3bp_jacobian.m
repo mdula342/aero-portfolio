@@ -1,7 +1,7 @@
 % define function that can calculate A for any state vector for use in
 % later scripts
 
-function A = cr3bp_A_calculation(X)
+function A = cr3bp_jacobian(X)
 
 x = X(1);
 y = X(2);

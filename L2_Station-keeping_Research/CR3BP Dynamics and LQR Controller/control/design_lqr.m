@@ -1,6 +1,6 @@
 % use MATLAB's built in lqr function to calculate K given A
 
-function K = lqr_design(A)
+function K = design_lqr(A)
     
     B = [zeros(3,3); eye(3)];
 
@@ -9,7 +9,7 @@ function K = lqr_design(A)
     % Q = diag([5.92e9 5.92e9 5.92e9 4.20e4 4.20e4 4.20e4]).
     % However, this led to very sharp accelerations as opposed to the
     % values found through trial and error listed below, which result in
-    % more reasonable values.
+    % more reasonable forces.
 
     Q = diag([1e4, 1e4, 1e4, 1e2, 1e2, 1e2]);
 

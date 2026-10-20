@@ -12,9 +12,9 @@ X_L2 = [1.155682164448510;
     0;
     0];
 
-A = cr3bp_A_calculation(X_L2);
+A = cr3bp_jacobian(X_L2);
 
-K = lqr_design(A);
+K = design_lqr(A);
 
 X0 = [1.155682164448510 + 1e-1;
     1e-1;
@@ -24,7 +24,7 @@ X0 = [1.155682164448510 + 1e-1;
     0];
 
 % Call control function
-[times, X_inputs, Xs] = sampled_data_control_propogator(0, 2, 1e-2, K, X0);
+[times, X_inputs, Xs] = propagate_sampled_lqr(0, 2, 1e-2, K, X0);
 
 % Calculate sample times to use in plotting the control accelerations
 sample_times = 0:1e-2:(2-1e-2);
@@ -41,7 +41,7 @@ ylabel('State')
 control_accelerations = [];
 
 for ii = X_inputs
-    control_accelerations = [control_accelerations, lqr_controller(K, ii)];
+    control_accelerations = [control_accelerations, lqr_control(K, ii)];
 end
 
 % Graph control accelerations over the update times
@@ -54,7 +54,7 @@ legend('X Control', 'Y Control', 'Z Control')
 % Calculate state error to plot over the times
 Xerrs = [];
 for ii = Xs'
-    Xerrs = [Xerrs, delta_XL2(ii)];
+    Xerrs = [Xerrs, l2_state_error(ii)];
 end
 
 % Plot state error

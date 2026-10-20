@@ -15,8 +15,8 @@ X_test = X_L2 + deltaX;
 Xdot_nonlinear = cr3bp_dynamics(0, X_test);
 
 % Linearized prediction
-A = cr3bp_A_calculation(X_L2);
-Xdot_linear = cr3bp_linear_dynamics(0, X_test, A);
+A = cr3bp_jacobian(X_L2);
+Xdot_linear = cr3bp_linearized_dynamics(0, X_test, A);
 
 % Display results
 disp('Nonlinear derivative:')
